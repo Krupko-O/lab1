@@ -1,2 +1,3 @@
-<img width="381" height="208" alt="Екран виконання програми для вирішення завдання" src="https://github.com/user-attachments/assets/95c69194-10d7-4960-b39f-0922eb3fa7ac" />
-<img width="666" height="713" alt="Код" src="https://github.com/user-attachments/assets/e9eeed3a-ab5a-4c73-b641-e8424d6a645a" />
+<img width="856" height="930" alt="Код 1" src="https://github.com/user-attachments/assets/ceb23a98-5d31-43a6-bec8-0c807c4488a5" />
+<img width="865" height="517" alt="Код 2" src="https://github.com/user-attachments/assets/daf3584c-433e-4db4-b201-d3657081910e" />
+<img width="385" height="338" alt="Результат коду" src="https://github.com/user-attachments/assets/4f7be25f-6fb4-4c22-9ce4-870bf7267c17" />
